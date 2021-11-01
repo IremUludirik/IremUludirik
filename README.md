@@ -46,10 +46,6 @@ departments.
 
 
 
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
-
 &nbsp;
 ## :star2:  GitHub stats
 ![](https://github-readme-stats.vercel.app/api?username=iremuludirik&theme=dark&show_icons=true)
