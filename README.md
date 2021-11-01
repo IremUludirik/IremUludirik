@@ -44,6 +44,9 @@ departments.
 
 [<img src="https://i.ibb.co/Q6vxqXf/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-2.png" alt="LinkedIn logo" title="LinkedIn" height="120" />](https://www.linkedin.com/in/iremuludirik/) [<img src="https://i.ibb.co/94mTb4H/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-1.png" height="120"/>](https://www.hackerrank.com/iremuludirik?hr_r=1) [<img src="https://i.ibb.co/xfZwCsQ/p.png" height="120"/>](https://app.patika.dev/IremUludirik)
 
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
 
 
 &nbsp;
