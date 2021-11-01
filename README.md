@@ -30,7 +30,7 @@ departments.
 
 <a name="learning-now"></a>
 
-[<img src="https://i.ibb.co/tJxgrnx/a.png" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/Bj58RpC/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-5.png" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/qpZmqBc/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-3.png" alt="git logo" title="git" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/HxPB7Hc/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-4.png" alt="Visual Studio Code logo" title="Visual Studio Code" height="120" />][tech_tools_anchor]
+[<img src="https://i.ibb.co/HxPB7Hc/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-4.png" alt="Visual Studio Code logo" title="Visual Studio Code" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/SKjF0tr/HTML.png" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/qny1pz0/css.png" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/3zSSGyc/js.png" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/Bj58RpC/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-5.png" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/qpZmqBc/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-3.png" alt="git logo" title="git" height="120" />][tech_tools_anchor]  
 
 
 
