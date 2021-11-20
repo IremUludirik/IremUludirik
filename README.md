@@ -1,7 +1,7 @@
 # Hi there ! I'm Irem Uludirik :wave:
 
 &nbsp;
-:tada: I'm looking for a Front-end position. 
+:tada: I'm looking for a Front-end position and Test Automation. 
 
 &nbsp;
 :white_check_mark: I’m currently learning JavaScript, React, Python.
