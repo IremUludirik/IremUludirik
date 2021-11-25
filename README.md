@@ -58,6 +58,12 @@ departments.
 [learning_next_anchor]: #
 
 
+&nbsp;
+## :eyes:  Most Used Languages
+
+<div align="center"><img src="https://camo.githubusercontent.com/b954395c9c9959d1a1b5e2156fbcf2758d0ea1cf42c4e937c5d8dad4c02f37f1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6972656d756c75646972696b266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremuludirik&amp;layout=compact" style="max-width: 100%;"></div>
+
+
 
 &nbsp;
 ## :star2:  GitHub stats
@@ -66,9 +72,5 @@ departments.
 
 
 
-&nbsp;
-## :eyes:  Most Used Languages
-
-<div align="center"><img src="https://camo.githubusercontent.com/b954395c9c9959d1a1b5e2156fbcf2758d0ea1cf42c4e937c5d8dad4c02f37f1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6972656d756c75646972696b266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremuludirik&amp;layout=compact" style="max-width: 100%;"></div>
 
 
