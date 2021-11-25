@@ -30,8 +30,15 @@ departments.
 
 <a name="learning-now"></a>
 
-[<img src="https://i.ibb.co/HxPB7Hc/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-4.png" alt="Visual Studio Code logo" title="Visual Studio Code" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/SKjF0tr/HTML.png" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/qny1pz0/css.png" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/3zSSGyc/js.png" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/Bj58RpC/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-5.png" height="120" />][tech_tools_anchor] [<img src="https://i.ibb.co/qpZmqBc/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-3.png" alt="git logo" title="git" height="120" />][tech_tools_anchor]  
-
+[<img src="https://r.resimlink.com/eB3A5.png" alt="git logo" title="git" height="120" />][tech_tools_anchor]
+[<img src="https://r.resimlink.com/wntfDaR.png" alt="Visual Studio Code logo" title="Visual Studio Code" height="120" />][tech_tools_anchor] 
+[<img src="https://r.resimlink.com/hyV0Y.png" alt="IntelliJ Idea logo" title="IntelliJ Idea" height="120" />][tech_tools_anchor] 
+[<img src="https://r.resimlink.com/U6qmzlw.png" alt="selenium logo" title="selenium" height="120" />][tech_tools_anchor]
+[<img src="https://r.resimlink.com/My5Gn.png" alt="html logo" title="html" height="120" />][tech_tools_anchor] 
+[<img src="https://r.resimlink.com/7LupfND6.png" alt="css logo" title="css" height="120" />][tech_tools_anchor] 
+[<img src="https://r.resimlink.com/81KjTOmh.png" alt="JS logo" title="JS" height="120" />][tech_tools_anchor]
+[<img src="https://r.resimlink.com/lqkfJG.png" alt="react logo" title="react" height="120" />][tech_tools_anchor] 
+[<img src="https://r.resimlink.com/qcCZFjn.png" alt="java logo" title="java" height="120" />][tech_tools_anchor] 
 
 
 <a name="learning-next"></a>
@@ -42,18 +49,26 @@ departments.
 
 ## 🔍  Where to find me
 
-[<img src="https://i.ibb.co/Q6vxqXf/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-2.png" alt="LinkedIn logo" title="LinkedIn" height="120" />](https://www.linkedin.com/in/iremuludirik/) [<img src="https://i.ibb.co/94mTb4H/Beyaz-ve-Deniz-Mavisi-F-r-a-Darbesi-Ki-isel-Logo-1.png" height="120"/>](https://www.hackerrank.com/iremuludirik?hr_r=1) [<img src="https://i.ibb.co/xfZwCsQ/p.png" height="120"/>](https://app.patika.dev/IremUludirik)
+[<img src="https://r.resimlink.com/b1TfD.png" alt="LinkedIn logo" title="LinkedIn" height="120" />](https://www.linkedin.com/in/iremuludirik/) 
+[<img src="https://r.resimlink.com/dqI6l.png" alt="Hackerrank logo" title="Hackerrank" height="120"/>](https://www.hackerrank.com/iremuludirik?hr_r=1) 
+[<img src="https://r.resimlink.com/jdip0YG.png" alt="Patika.dev logo" title="Patika.dev" height="120"/>](https://app.patika.dev/IremUludirik)
 
 [tech_tools_anchor]: #
 [learning_now_anchor]: #
 [learning_next_anchor]: #
 
 
+
 &nbsp;
 ## :star2:  GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=iremuludirik&theme=dark&show_icons=true)
+
+<div align="center"><img src="https://camo.githubusercontent.com/e5195cd2ebc227614aaafcd5ee39f30744b3bf03bd584df60456dc929aa38241/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6972656d756c75646972696b267468656d653d6461726b2673686f775f69636f6e733d74727565" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=iremuludirik&amp;theme=dark&amp;show_icons=true" style="max-width: 100%;"></div>
+
 
 
 &nbsp;
 ## :eyes:  Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremuludirik&layout=compact)](https://github.com/iremuludirik/github-readme-stats)
+
+<div align="center"><img src="https://camo.githubusercontent.com/b954395c9c9959d1a1b5e2156fbcf2758d0ea1cf42c4e937c5d8dad4c02f37f1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6972656d756c75646972696b266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremuludirik&amp;layout=compact" style="max-width: 100%;"></div>
+
+
