@@ -59,16 +59,9 @@ departments.
 
 
 &nbsp;
-## :eyes:  Most Used Languages
+## :eyes:  Most Used Languages   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star2:  GitHub stats
 
-<div align="center"><img src="https://camo.githubusercontent.com/b954395c9c9959d1a1b5e2156fbcf2758d0ea1cf42c4e937c5d8dad4c02f37f1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6972656d756c75646972696b266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremuludirik&amp;layout=compact" style="max-width: 100%;"></div>
-
-
-
-&nbsp;
-## :star2:  GitHub stats
-
-<div align="center"><img src="https://camo.githubusercontent.com/e5195cd2ebc227614aaafcd5ee39f30744b3bf03bd584df60456dc929aa38241/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6972656d756c75646972696b267468656d653d6461726b2673686f775f69636f6e733d74727565" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=iremuludirik&amp;theme=dark&amp;show_icons=true" style="max-width: 100%;"></div>
+<div><img  src="https://camo.githubusercontent.com/2a5a02605835f89b3fa0eb1cb2f4cd7986543cef22d951ef130a3222e7cbfc58/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6265726b61796e61796d616e2673686f775f69636f6e733d74727565267468656d653d7261646963616c266c6f63616c653d656e266c61796f75743d636f6d70616374" width="45%" alt="iremuludirik" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremuludirik&amp;layout=compact" style="max-width: 100%;"> &nbsp;&nbsp;&nbsp; <img src="https://camo.githubusercontent.com/486bcde6870380e07bb17a9acf3afa2e6fde9f385ad16abf99b22382b336e95b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6972656d756c75646972696b2673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=iremuludirik&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;"></div>
 
 
 
