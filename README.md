@@ -59,10 +59,10 @@ departments.
 
 
 &nbsp;
-## :eyes:  Most Used Languages  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :star2:  GitHub stats
+## :eyes:  Most Used Languages  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :star2:  GitHub stats
 
-<div> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iremuludirik&show_icons=true&theme=dracula&locale=en&layout=compact" width="40%" alt="iremuludirik"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=iremuludirik&&theme=dracula&show_icons=true" alt="iremuludirik" width="40%"/>
+<div> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iremuludirik&show_icons=true&theme=dracula&locale=en&layout=compact" width="45%" alt="iremuludirik"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=iremuludirik&&theme=dracula&show_icons=true" alt="iremuludirik" width="45%"/>
 </div>
 
 
