@@ -1,5 +1,8 @@
 # Hi there ! I'm Irem Uludirik :wave:
+<div>
+<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"></img>
 
+<div><p align="left">
 &nbsp;
 :tada: I'm looking for a Front-end position and Test Automation. 
 
@@ -21,7 +24,8 @@ departments.
 
 &nbsp;
 :balloon: When I was in the environmental engineering department, all of our projects and assignments were about coding. Since I had an interest in software before, I finished my second university on web design and coding. Now, I want to follow my dreams and become a front-end devoloper.
-
+  </p></div>
+  </div>
 
 &nbsp;
 
