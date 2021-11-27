@@ -23,7 +23,6 @@ departments.
 :balloon: When I was in the environmental engineering department, all of our projects and assignments were about coding. Since I had an interest in software before, I finished my second university on web design and coding. Now, I want to follow my dreams and become a front-end devoloper.
 
 
-
 &nbsp;
 
 ## 🛠  Technologies and tools
