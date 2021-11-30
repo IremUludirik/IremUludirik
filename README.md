@@ -55,6 +55,8 @@ departments.
 [<img src="https://r.resimlink.com/b1TfD.png" alt="LinkedIn logo" title="LinkedIn" height="120" />](https://www.linkedin.com/in/iremuludirik/) 
 [<img src="https://r.resimlink.com/dqI6l.png" alt="Hackerrank logo" title="Hackerrank" height="120"/>](https://www.hackerrank.com/iremuludirik?hr_r=1) 
 [<img src="https://r.resimlink.com/jdip0YG.png" alt="Patika.dev logo" title="Patika.dev" height="120"/>](https://app.patika.dev/IremUludirik)
+[<img src="https://r.resimlink.com/rP9kl.png" alt="medium logo" title="medium" height="120"/>](https://medium.com/@iremuludirik)
+
 
 [tech_tools_anchor]: #
 [learning_now_anchor]: #
