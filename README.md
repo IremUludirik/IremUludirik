@@ -22,7 +22,7 @@
 :earth_americas: Who knows, maybe I can bring together the environmental engineering and software world in the future and develop software that is effective for our world and environment and will contribute positively to living things and nature in this regard.
 
 &nbsp;
-:balloon: When I was in the environmental engineering department, all of our projects and assignments were about coding. Since I had an interest in software before, I finished my second university on web design and coding. Now, I want to follow my dreams and become a front-end devoloper.
+:balloon: When I was in the environmental engineering department, all of our projects and assignments were about coding. Since I had an interest in software before, I finished my second university on web design and coding. Now, I want to follow my dreams and become a devoloper.
   </p></div>
   </div>
 
