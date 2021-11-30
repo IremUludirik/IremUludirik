@@ -13,8 +13,7 @@
 :mortar_board: :herb: I graduated from Marmara University Environmental Engineering in 100% English.
 
 &nbsp;
-:mortar_board: :computer: I graduated from Anadolu University Web Design and Coding
-departments.
+:mortar_board: :computer: I graduated from Anadolu University Web Design and Coding.
 
 &nbsp;
 :thought_balloon: I developed myself in terms of research, self-motivation, entrepreneurship and acquiring different abilities.
