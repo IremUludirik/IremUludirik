@@ -36,6 +36,7 @@
 [<img src="https://r.resimlink.com/wntfDaR.png" alt="Visual Studio Code logo" title="Visual Studio Code" height="120" />][tech_tools_anchor] 
 [<img src="https://r.resimlink.com/hyV0Y.png" alt="IntelliJ Idea logo" title="IntelliJ Idea" height="120" />][tech_tools_anchor] 
 [<img src="https://r.resimlink.com/U6qmzlw.png" alt="selenium logo" title="selenium" height="120" />][tech_tools_anchor]
+[<img src="https://r.resimlink.com/ZUnP2GX9.png" alt="postman logo" title="postman" height="120" />][tech_tools_anchor]
 [<img src="https://r.resimlink.com/My5Gn.png" alt="html logo" title="html" height="120" />][tech_tools_anchor] 
 [<img src="https://r.resimlink.com/7LupfND6.png" alt="css logo" title="css" height="120" />][tech_tools_anchor] 
 [<img src="https://r.resimlink.com/81KjTOmh.png" alt="JS logo" title="JS" height="120" />][tech_tools_anchor]
