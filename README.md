@@ -1,4 +1,4 @@
-# Hi there ! I'm Irem Uludirik :wave:
+# Hi there ! I'm Irem Uludirik :wave:  <img align="right" src="https://komarev.com/ghpvc/?username=iremuludirik&label=Profile%20views&color=8e15be&style=plastic" alt="iremuludirik" /> 
 <div>
 <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"></img>
 
