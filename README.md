@@ -34,7 +34,8 @@
 
 [<img src="https://r.resimlink.com/eB3A5.png" alt="git logo" title="git" height="120" />][tech_tools_anchor]
 [<img src="https://r.resimlink.com/wntfDaR.png" alt="Visual Studio Code logo" title="Visual Studio Code" height="120" />][tech_tools_anchor] 
-[<img src="https://r.resimlink.com/hyV0Y.png" alt="IntelliJ Idea logo" title="IntelliJ Idea" height="120" />][tech_tools_anchor] 
+[<img src="https://r.resimlink.com/hyV0Y.png" alt="IntelliJ Idea logo" title="IntelliJ Idea" height="120" />][tech_tools_anchor]
+[<img src="https://r.resimlink.com/KMlYVvs.png" alt="PyCharm logo" title="Pycharm" height="120" />][tech_tools_anchor] 
 [<img src="https://r.resimlink.com/U6qmzlw.png" alt="selenium logo" title="selenium" height="120" />][tech_tools_anchor]
 [<img src="https://r.resimlink.com/ZUnP2GX9.png" alt="postman logo" title="postman" height="120" />][tech_tools_anchor]
 [<img src="https://r.resimlink.com/My5Gn.png" alt="html logo" title="html" height="120" />][tech_tools_anchor] 
@@ -42,7 +43,9 @@
 [<img src="https://r.resimlink.com/81KjTOmh.png" alt="JS logo" title="JS" height="120" />][tech_tools_anchor]
 [<img src="https://r.resimlink.com/lqkfJG.png" alt="react logo" title="react" height="120" />][tech_tools_anchor] 
 [<img src="https://r.resimlink.com/qcCZFjn.png" alt="java logo" title="java" height="120" />][tech_tools_anchor] 
-
+[<img src="https://r.resimlink.com/MsxCw6.png" alt="C# logo" title="C#" height="120" />][tech_tools_anchor]
+[<img src="https://r.resimlink.com/VC4Iir.png" alt=".netcore logo" title=".netcore" height="120" />][tech_tools_anchor] 
+[<img src="https://r.resimlink.com/0S1omM.png" alt="Python logo" title="Python" height="120" />][tech_tools_anchor] 
 
 <a name="learning-next"></a>
 
