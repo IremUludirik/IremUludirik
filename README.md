@@ -2,7 +2,7 @@
 <div>
 <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"></img>
 
-<div><p align="left">
+<div><p align="left"> 
 &nbsp;
 :tada: I'm looking for a Front-end position and Test Automation. 
 
