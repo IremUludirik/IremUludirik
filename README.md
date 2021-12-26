@@ -38,6 +38,8 @@
 [<img src="https://r.resimlink.com/KMlYVvs.png" alt="PyCharm logo" title="Pycharm" height="120" />][tech_tools_anchor] 
 [<img src="https://r.resimlink.com/U6qmzlw.png" alt="selenium logo" title="selenium" height="120" />][tech_tools_anchor]
 [<img src="https://r.resimlink.com/ZUnP2GX9.png" alt="postman logo" title="postman" height="120" />][tech_tools_anchor]
+[<img src="https://r.resimlink.com/78rwvN.png" alt="appium logo" title="appium" height="120" />][tech_tools_anchor]
+[<img src="https://r.resimlink.com/QJUzs.png" alt="android studio logo" title="android studio" height="120" />][tech_tools_anchor]
 [<img src="https://r.resimlink.com/My5Gn.png" alt="html logo" title="html" height="120" />][tech_tools_anchor] 
 [<img src="https://r.resimlink.com/7LupfND6.png" alt="css logo" title="css" height="120" />][tech_tools_anchor] 
 [<img src="https://r.resimlink.com/81KjTOmh.png" alt="JS logo" title="JS" height="120" />][tech_tools_anchor]
