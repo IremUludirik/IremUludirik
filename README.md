@@ -7,7 +7,7 @@
 :tada: I'm looking for a Front-end position and Test Automation. 
 
 &nbsp;
-:white_check_mark: I’m currently learning JavaScript, Java, C#, .NetCore, React, test automation, Python.
+:white_check_mark: I’m currently learning test automation and frontend development.
 
 &nbsp;
 :mortar_board: :herb: I graduated from Marmara University Environmental Engineering in 100% English.
