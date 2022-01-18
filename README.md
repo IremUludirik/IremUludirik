@@ -27,7 +27,7 @@
   </div>
 
 &nbsp;
-
+ 
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
