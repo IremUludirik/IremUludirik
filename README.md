@@ -49,7 +49,7 @@
 [<img src="https://r.resimlink.com/VC4Iir.png" alt=".netcore logo" title=".netcore" height="120" />][tech_tools_anchor] 
 [<img src="https://r.resimlink.com/0S1omM.png" alt="Python logo" title="Python" height="120" />][tech_tools_anchor] 
 
-<a name="learning-next"></a> 
+<a name="learning-next"></a>  
 
 &nbsp;
 
