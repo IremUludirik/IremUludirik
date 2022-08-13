@@ -32,22 +32,38 @@
 
 <a name="learning-now"></a>
 
-[<img src="https://r.resimlink.com/eB3A5.png" alt="git logo" title="git" height="120" />][tech_tools_anchor]
-[<img src="https://r.resimlink.com/wntfDaR.png" alt="Visual Studio Code logo" title="Visual Studio Code" height="120" />][tech_tools_anchor] 
-[<img src="https://r.resimlink.com/hyV0Y.png" alt="IntelliJ Idea logo" title="IntelliJ Idea" height="120" />][tech_tools_anchor]
-[<img src="https://r.resimlink.com/KMlYVvs.png" alt="PyCharm logo" title="Pycharm" height="120" />][tech_tools_anchor] 
-[<img src="https://r.resimlink.com/U6qmzlw.png" alt="selenium logo" title="selenium" height="120" />][tech_tools_anchor]
-[<img src="https://r.resimlink.com/ZUnP2GX9.png" alt="postman logo" title="postman" height="120" />][tech_tools_anchor]
-[<img src="https://r.resimlink.com/78rwvN.png" alt="appium logo" title="appium" height="120" />][tech_tools_anchor]
-[<img src="https://r.resimlink.com/QJUzs.png" alt="android studio logo" title="android studio" height="120" />][tech_tools_anchor]
-[<img src="https://r.resimlink.com/My5Gn.png" alt="html logo" title="html" height="120" />][tech_tools_anchor] 
-[<img src="https://r.resimlink.com/7LupfND6.png" alt="css logo" title="css" height="120" />][tech_tools_anchor] 
-[<img src="https://r.resimlink.com/81KjTOmh.png" alt="JS logo" title="JS" height="120" />][tech_tools_anchor]
-[<img src="https://r.resimlink.com/lqkfJG.png" alt="react logo" title="react" height="120" />][tech_tools_anchor] 
-[<img src="https://r.resimlink.com/qcCZFjn.png" alt="java logo" title="java" height="120" />][tech_tools_anchor] 
-[<img src="https://r.resimlink.com/MsxCw6.png" alt="C# logo" title="C#" height="120" />][tech_tools_anchor]
-[<img src="https://r.resimlink.com/VC4Iir.png" alt=".netcore logo" title=".netcore" height="120" />][tech_tools_anchor] 
-[<img src="https://r.resimlink.com/0S1omM.png" alt="Python logo" title="Python" height="120" />][tech_tools_anchor] 
+- MS Office Programs
+- Visual Basic
+- MS Visual Studio
+- Visual Studio Code
+- git
+- Jira
+- Jenkins
+- Testinium
+- Selenium
+- Postman
+- IntelliJ IDEA
+- PyCharm
+- C#
+- .Net Core
+- HTML
+- CSS
+- JavaScript
+- React
+- Java
+- Python
+- Appium
+- Android Studio
+- Specflow
+- Cucumber
+- Gherkin
+- AutoCad
+- Surfer
+- Grapher
+- Fortrun
+- QGIS
+- ArcGIS
+
 
 <a name="learning-next"></a>  
 
@@ -57,10 +73,18 @@
 
 ## 🔍  Where to find me
 
-[<img src="https://r.resimlink.com/b1TfD.png" alt="LinkedIn logo" title="LinkedIn" height="120" />](https://www.linkedin.com/in/iremuludirik/) 
-[<img src="https://r.resimlink.com/dqI6l.png" alt="Hackerrank logo" title="Hackerrank" height="120"/>](https://www.hackerrank.com/iremuludirik?hr_r=1) 
-[<img src="https://r.resimlink.com/jdip0YG.png" alt="Patika.dev logo" title="Patika.dev" height="120"/>](https://app.patika.dev/IremUludirik)
-[<img src="https://r.resimlink.com/rP9kl.png" alt="medium logo" title="medium" height="120"/>](https://medium.com/@iremuludirik)
+
+&nbsp;
+:dart: [LInkedin](https://www.linkedin.com/in/iremuludirik/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+:dart:  [Medium](https://medium.com/@iremuludirik)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+:dart: [Patika.dev](https://app.patika.dev/IremUludirik)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+:dart: [Hackerrank](https://www.hackerrank.com/iremuludirik?hr_r=1)
 
 
 [tech_tools_anchor]: #
