@@ -31,38 +31,49 @@
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
+<div align="center">
 
-- MS Office Programs
-- Visual Basic
-- MS Visual Studio
-- Visual Studio Code
-- git
-- Jira
-- Jenkins
-- Testinium
-- Selenium
-- Postman
-- IntelliJ IDEA
-- PyCharm
-- C#
-- .Net Core
-- HTML
-- CSS
-- JavaScript
-- React
-- Java
-- Python
-- Appium
-- Android Studio
-- Specflow
-- Cucumber
-- Gherkin
-- AutoCad
-- Surfer
-- Grapher
-- Fortrun
-- QGIS
-- ArcGIS
+:radio_button: 	C#
+:radio_button: JavaScript
+:radio_button:	Java
+:radio_button:	Python
+:radio_button:	Gherkin
+:radio_button:	Fortrun
+
+:radio_button: IntelliJ IDEA
+:radio_button: MS Visual Studio
+:radio_button: Visual Studio Code
+:radio_button: PyCharm
+:radio_button: Visual Basic
+
+:radio_button:Specflow
+:radio_button:Cucumber
+:radio_button:React
+:radio_button:.Net Core
+
+:radio_button: Jenkins
+:radio_button: Testinium
+:radio_button: Selenium
+:radio_button: Postman
+:radio_button: Appium
+:radio_button: Android Studio
+
+:radio_button: git
+:radio_button: Jira
+:radio_button: HTML
+:radio_button: CSS
+
+:radio_button: MS Office Programs
+:radio_button: AutoCad
+:radio_button: Surfer
+:radio_button: Grapher
+:radio_button: QGIS
+:radio_button: ArcGIS
+</div>
+
+
+
+
 
 
 <a name="learning-next"></a>  
